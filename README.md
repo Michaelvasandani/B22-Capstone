@@ -13,3 +13,9 @@ Demonstrates the average spectral power across all mice in each group when light
 
 
 DTW.ipynb: DTW distances between mice of the same sex to show variability within sex.
+
+CWT.ipynb: Performs a Continuous Wavelet Transform (CWT) analysis on time-series data to quantify and visualize rhythmic patterns in physiological signals, such as temperature or activity, revealing how circadian and ultradian rhythms vary over time.
+
+ChangePoint.ipynb: Uses change point detection (via the PELT algorithm) to identify moments of abrupt change in temperature signals from male and female mice across multiple days. It then aggregates and compares these change points to find the most synchronized times of change
+
+EMD.ipynb: Uses Empirical Mode Decomposition (EMD) to measure how much signal variance each intrinsic mode function (IMF) contributes under those conditions. It reveals how different rhythmic components (timescales) vary between light vs. dark phases and between sexes
