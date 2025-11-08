@@ -10,3 +10,6 @@ The distribution of per-mouse mean DTW distances for each light condition betwee
 
 CWTexplore.ipynb: 
 Demonstrates the average spectral power across all mice in each group when lights are on or off. Hotter regions mean higher activity rates.
+
+
+DTW.ipynb: DTW distances between mice of the same sex to show variability within sex.
