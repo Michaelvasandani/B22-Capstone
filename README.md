@@ -6,3 +6,7 @@ Sex bias in preclinical research has historically favored male mice, based on th
 
 Variance analysis - Combined DTW and CWT.ipynb: 
 The distribution of per-mouse mean DTW distances for each light condition between male and female mice for core body temperature and activity metrics processed using CWT.
+
+
+CWTexplore.ipynb: 
+Demonstrates the average spectral power across all mice in each group when lights are on or off. Hotter regions mean higher activity rates.
