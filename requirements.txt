@@ -5,4 +5,7 @@ seaborn
 PyWavelets
 ruptures
 scipy
-PyEMD
+EMD-signal
+openpyxl
+jupyterlab
+scikit-learn
