@@ -1,4 +1,5 @@
 # B22-Capstone: Mouse Physiological Variability Analysis
+Group members: Kyra Deng, Michael Vasandani, Matthew Budding, Pansy Kuang
 
 ## Abstract
 
